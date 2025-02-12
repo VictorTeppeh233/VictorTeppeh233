@@ -7,4 +7,4 @@ Let's collaborate, share ideas, and build amazing things with AI!
 💬 **Let's Connect**:
 [![LinkedIn](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-64.png)](https://linkedin.com/in/VictorTeppeh233)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VictorTeppeh233)
-[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=red)](mailto:victorteppeh233@gmail.com)
+[![Email](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-64.png)](mailto:victorteppeh233@gmail.com)
