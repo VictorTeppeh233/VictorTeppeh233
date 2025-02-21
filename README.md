@@ -3,4 +3,5 @@
 
 # Hi there! I'm Victor Teppeh
 ### Aspiring Machine Learning Engineer & AI Scientist 🤖 
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorteppeh233)](https://github.com/victorteppeh233/github-readme-stats)
 
