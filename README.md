@@ -1,8 +1,9 @@
-![Profile](https://github.com/user-attachments/assets/8af179b7-30b6-47a9-99ee-359f6bf4a508)
+/home/victor/Videos/Programming Languages.png
+
 # 👋 Hi there! I'm Victor Teppeh
 
 
 ### Aspiring Machine Learning Engineer & AI Scientist 🤖 
+/home/victor/Videos/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
 
-Welcome to my GitHub profile! I am passionate about the world of **Machine Learning** and **Artificial Intelligence**, and I'm always learning and experimenting with new ideas and techniques to advance in the field. I enjoy exploring the intersection of data, algorithms, and real-world problem solving.
-Let's collaborate, share ideas, and build amazing things with AI! 
+
