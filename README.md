@@ -5,3 +5,5 @@
 ### Aspiring Machine Learning Engineer & AI Scientist 
 
 ![victorteppeh233's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorteppeh233&show_icons=true&theme=synthwave&rank_icon=github)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=victorteppeh233&theme=dark)](https://git.io/streak-stats)
