@@ -4,7 +4,5 @@
 # Hi there! I'm Victor Teppeh
 ### Aspiring Machine Learning Engineer & AI Scientist 
 
-![victorteppeh233's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorteppeh233&show_icons=true&theme=synthwave&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorteppeh233&hide_progress=true)
 
