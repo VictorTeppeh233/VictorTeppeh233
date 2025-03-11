@@ -9,4 +9,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorteppeh233&hide_progress=true)
 
 
-![GitHub Stats](https://streak-stats.demolab.com?user=victorteppeh233&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=victorteppeh233%theme=dark)](https://git.io/streak-stats)
