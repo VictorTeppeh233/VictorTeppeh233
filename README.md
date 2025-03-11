@@ -10,3 +10,4 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=victorteppeh233)](https://git.io/streak-stats)
+![GitHub Stats](https://streak-stats.demolab.com?user=victorteppeh233&theme=dark&hide_border=true)
