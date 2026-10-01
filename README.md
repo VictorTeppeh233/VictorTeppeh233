@@ -37,4 +37,4 @@ Learn → Implement → Experiment → Explain → Publish
 - Representation Learning
 - Generative AI
 - AI Systems
-- NLP in Low Resource Ghanain Languages
+- NLP in Low Resource Ghanaian Languages
